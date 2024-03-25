@@ -1,10 +1,7 @@
-﻿<div style="background: #000807;color: white">
-    <h3 style="font-size: 50px;font-weight: bold">👋 Hey There! I'm Luanderson</h3>
-    <p style="margin-top: 20px;background: none;align-items: start;">Computer Engineer, Game Designer, IT Specialist, DevOsp and DevSecOps Specialist</p>
-</div>
+![banner](/assets/banner.svg)                     
 
 ### About Me
-``` 
+
 I'm passionate about technology and digital experiences, shaping a diverse career by combining skills in programming, IT, and game design. My expertise extends to DevOps and DevSecOps methodologies, where I've leveraged tools and practices to streamline development processes, enhance security measures, and improve overall efficiency.
 
 I also have hands-on experience with cloud platforms like AWS, Azure, Google Cloud Platform, and Hetzner. This includes designing, deploying, and managing scalable and reliable cloud-based infrastructures to support various projects.
@@ -12,7 +9,7 @@ I also have hands-on experience with cloud platforms like AWS, Azure, Google Clo
 Furthermore, I'm proficient in using tools such as Terraform for infrastructure as code (IaC) implementation. By employing Terraform, I've automated the provisioning and configuration of cloud resources, ensuring consistency and reliability across deployments.
 
 I aim to create creative, innovative, and customized solutions, leveraging my experience in DevOps, DevSecOps, Cloud Infrastructure to deliver high-quality solutions tailored to specific business needs.
-```
+
 
 ### Skills 
 <a href="SKILS.md">![Skills Badges](https://img.shields.io/badge/For_full_skills_list_follow_this_Link-blue?style=for-the-badge)</a>
