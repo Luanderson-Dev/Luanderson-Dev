@@ -1,4 +1,4 @@
-![banner](/assets/banner.svg)                     
+![banner](assets/banner.svg)    
 
 ### About Me
 
