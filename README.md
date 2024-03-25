@@ -1,4 +1,4 @@
-![banner](assets/banner.svg)    
+<a align="center">![banner](assets/banner.svg)</a>
 
 ### About Me
 
