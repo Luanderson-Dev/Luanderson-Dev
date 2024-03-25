@@ -1,7 +1,7 @@
 <a align="center">![banner](assets/banner.svg)</a>
 
 ### About Me
-<img align="right" alt="AI Generated Image" src="https://th.bing.com/th/id/OIG3.u6qGpBx7w1ALaytkDprs?w=1024&h=1024&rs=1&pid=ImgDetMain" width="500" height="485" />
+<img align="right" alt="AI Generated Image" src="https://th.bing.com/th/id/OIG3.u6qGpBx7w1ALaytkDprs?w=1024&h=1024&rs=1&pid=ImgDetMain" width="500" />
 
 I'm passionate about technology and digital experiences, shaping a diverse career by combining skills in programming, IT, and game design. My expertise extends to DevOps and DevSecOps methodologies, where I've leveraged tools and practices to streamline development processes, enhance security measures, and improve overall efficiency.
 
