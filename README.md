@@ -2,7 +2,7 @@
 
 ### About Me
 
-<img align="right" alt="AI Generated Image" src="https://th.bing.com/th/id/OIG3.u6qGpBx7w1ALaytkDprs?w=1024&h=1024&rs=1&pid=ImgDetMain" width="400" />
+<!-- <img align="right" alt="AI Generated Image" src="https://th.bing.com/th/id/OIG3.u6qGpBx7w1ALaytkDprs?w=1024&h=1024&rs=1&pid=ImgDetMain" width="400" /> -->
 
 
 I'm passionate about technology and digital experiences, shaping a diverse career by combining skills in programming, IT, and game design. My expertise extends to DevOps and DevSecOps methodologies, where I've leveraged tools and practices to streamline development processes, enhance security measures, and improve overall efficiency.
@@ -14,8 +14,8 @@ Furthermore, I'm proficient in using tools such as Terraform for infrastructure 
 I aim to create creative, innovative, and customized solutions, leveraging my experience in DevOps, DevSecOps, Cloud Infrastructure to deliver high-quality solutions tailored to specific business needs.
 
 <br />
-<p align="right"><code>Content Credentials © 2024 Microsof
-Generated with AI ∙ March 17, 2024 at 5:36 PM</code></p>
+<!-- <p align="right"><code>Content Credentials © 2024 Microsof
+Generated with AI ∙ March 17, 2024 at 5:36 PM</code></p> -->
 
 ### Skills 
 <a href="SKILS.md"><code>![Skills Badges](https://img.shields.io/badge/For_full_skills_list_follow_this_Link-blue?style=for-the-badge)</code></a>
