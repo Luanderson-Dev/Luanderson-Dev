@@ -18,7 +18,7 @@ I aim to create creative, innovative, and customized solutions, leveraging my ex
 Generated with AI ∙ March 17, 2024 at 5:36 PM</code></p> -->
 
 ### Skills 
-<a href="SKILS.md"><code>![Skills Badges](https://img.shields.io/badge/For_full_skills_list_follow_this_Link-blue?style=for-the-badge)</code></a>
+<a href="SKILS.md"><code>![Skills Badges](https://img.shields.io/badge/Skills_List-blue?style=for-the-badge)</code></a>
 #### Languages
 
 <code>![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)</code>
@@ -28,7 +28,6 @@ Generated with AI ∙ March 17, 2024 at 5:36 PM</code></p> -->
 <code>![cs](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23&logoColor=white)</code>
 <code>![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</code>
 <code>![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)</code>
-<code>![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)</code>
 
 #### Tools and Frameworks
 <code>![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</code>
