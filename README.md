@@ -1,4 +1,7 @@
-<a align="center">![banner](assets/banner.svg)</a>
+</br>
+<h3 align="center" size="500px">Hey there! I'm Luanderson</h3>
+</br>
+
 
 ### About Me
 
