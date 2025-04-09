@@ -8,13 +8,32 @@
 <!-- <img align="right" alt="AI Generated Image" src="https://th.bing.com/th/id/OIG3.u6qGpBx7w1ALaytkDprs?w=1024&h=1024&rs=1&pid=ImgDetMain" width="400" /> -->
 
 
-I'm passionate about technology and digital experiences, shaping a diverse career by combining skills in programming, IT, and game design. My expertise extends to DevOps and DevSecOps methodologies, where I've leveraged tools and practices to streamline development processes, enhance security measures, and improve overall efficiency.
+I'm passionate about technology, innovation, and digital experiences — and I've built my career around turning ideas into scalable, secure, and impactful solutions. With a strong background in software development, IT infrastructure, and game design, I bridge creativity and deep technical expertise.
 
-I also have hands-on experience with cloud platforms like AWS, Azure, Google Cloud Platform, and Hetzner. This includes designing, deploying, and managing scalable and reliable cloud-based infrastructures to support various projects.
-  
-Furthermore, I'm proficient in using tools such as Terraform for infrastructure as code (IaC) implementation. By employing Terraform, I've automated the provisioning and configuration of cloud resources, ensuring consistency and reliability across deployments.
+Currently, I work as an IT Support Analyst at Inserti Soluções em TI, while also pursuing a degree in Computer Engineering and a postgraduate specialization in Digital Game Development. I also hold a degree in Game Design, which gives me a unique perspective on crafting user-centered and visually engaging experiences.
 
-I aim to create creative, innovative, and customized solutions, leveraging my experience in DevOps, DevSecOps, Cloud Infrastructure to deliver high-quality solutions tailored to specific business needs.
+I have hands-on experience with DevOps and DevSecOps methodologies, using tools like Docker, Kubernetes, GitLab CI/CD, and Terraform to implement Infrastructure as Code (IaC), automate pipelines, and ensure security across the entire development lifecycle. I'm proficient in managing cloud infrastructures on AWS, Azure, GCP, and Hetzner, always focusing on availability, performance, and security compliance.
+
+👨‍💻 Tech Stack:
+
+Languages: Python, C, C++, C#, Java, JavaScript, TypeScript
+
+Frameworks: Django, Node.js, Express, React
+
+Databases: PostgreSQL, MySQL, SQLite
+
+Infrastructure & Networking: Linux, Docker, CI/CD, IaaS, PaaS
+
+<br/>
+
+🔭 I'm always seeking to learn, grow, and contribute to tech projects that are innovative, efficient, and aligned with real business needs.
+
+📩 Let’s connect! I’m open to new opportunities, collaborations, and great conversations.
+
+
+### 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/517071325819305995) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luanderson-mendes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contato@luanderson.dev.br) 
+
 
 <br />
 
