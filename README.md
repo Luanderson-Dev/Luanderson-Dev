@@ -7,30 +7,27 @@
 
 <!-- <img align="right" alt="AI Generated Image" src="https://th.bing.com/th/id/OIG3.u6qGpBx7w1ALaytkDprs?w=1024&h=1024&rs=1&pid=ImgDetMain" width="400" /> -->
 
-I'm passionate about technology, innovation, and digital experiences. Throughout my career, I've focused on developing scalable, secure, and efficient solutions, with a practical and innovative approach.
+I'm passionate about technology, innovation, and building impactful digital experiences. Throughout my career, I've focused on developing scalable, secure, and efficient solutions — always with a practical mindset and a collaborative spirit.
 
-I have solid experience in backend development using .NET/C#, building high-performance and easily scalable applications. I leverage DevOps methodologies for automating pipelines and continuous integration, using tools like Docker, Kubernetes, GitLab CI/CD, and Terraform to ensure an agile and efficient development process. I work extensively with AWS, Azure, and GCP, managing cloud infrastructures that prioritize high availability and scalability.
+I have solid experience in backend development using .NET/C# and Python, building high-performance, maintainable, and scalable applications. I follow DevOps practices to automate pipelines and ensure continuous delivery, leveraging tools like Docker, Kubernetes, GitLab CI/CD, and Terraform to create agile and reliable workflows.
 
-As an enthusiast in AI engineering, I focus on autonomous agents and Large Language Models (LLMs). I use frameworks like LangChain and RAG (Retrieval-Augmented Generation) to develop intelligent, contextual solutions that optimize processes and improve operational efficiency. My expertise extends to integrating AI into cloud computing systems and implementing Infrastructure as Code (IaC), building innovative solutions aligned with business needs.
+I work extensively with AWS, Azure, and GCP, designing and managing cloud infrastructures that emphasize scalability, high availability, and operational efficiency. My approach combines software engineering and infrastructure to deliver robust, production-ready systems that solve real-world challenges.
 
 💻 Tech Stack:
-- Languages: C#, Python
-- Frameworks: .NET, ASP.NET
+- Languages: C#, Python, Typescript, JavaScript
+- Frameworks: .NET, ASP.NET, React, Django, Flask
 - Databases: PostgreSQL, Redis, MongoDB, Firebase
 - DevOps & Cloud: Docker, Kubernetes, Terraform, GitLab CI/CD, AWS, Azure, GCP
-- Artificial Intelligence: LangChain, OpenAI, RAG, LLMs
 
 🚀 What I'm Passionate About:
-- Solving complex problems with simplicity
-- Building real-world solutions that deliver value
-- Crafting efficient, scalable systems
-- Exploring new challenges and applying cutting-edge technology
+- Solving complex problems with clarity and simplicity
+- Building systems that are efficient, scalable, and reliable
+- Creating tools that improve developer and business productivity
+- Learning, iterating, and pushing boundaries through real-world development
 
-<br/>
+🔭 I'm always looking to contribute to challenging tech projects that demand solid engineering, cloud expertise, and a focus on delivering value.
 
-🔭 I'm always seeking to learn, grow, and contribute to tech projects that are innovative, efficient, and aligned with real business needs.
-
-📩 Let’s connect! I’m open to new opportunities, collaborations, and great conversations.
+📩 Let’s connect — I’m open to new opportunities, collaborations, and great conversations!
 
 ### 🌐 Socials: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/517071325819305995) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luanderson-mendes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contato@luanderson.dev.br) <a href="https://www.buymeacoffee.com/luanderson.dev"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="125" alt="luanderson.dev" /></a>
 
