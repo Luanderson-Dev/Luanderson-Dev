@@ -7,11 +7,13 @@
 
 <!-- <img align="right" alt="AI Generated Image" src="https://th.bing.com/th/id/OIG3.u6qGpBx7w1ALaytkDprs?w=1024&h=1024&rs=1&pid=ImgDetMain" width="400" /> -->
 
-I'm passionate about technology, innovation, and building impactful digital experiences. Throughout my career, I've focused on developing scalable, secure, and efficient solutions — always with a practical mindset and a collaborative spirit.
+I'm a backend and fullstack developer passionate about building scalable, efficient, and secure digital solutions that make a real impact.
 
-I have solid experience in backend development using .NET/C# and Python, building high-performance, maintainable, and scalable applications. I follow DevOps practices to automate pipelines and ensure continuous delivery, leveraging tools like Docker, Kubernetes, GitLab CI/CD, and Terraform to create agile and reliable workflows.
+With solid experience in .NET/C# and Python, I develop robust APIs, backend services, and automation tools. On the frontend, I work with JavaScript, TypeScript, React, and modern frameworks, building responsive, intuitive interfaces that enhance user experience and performance.
 
-I work extensively with AWS, Azure, and GCP, designing and managing cloud infrastructures that emphasize scalability, high availability, and operational efficiency. My approach combines software engineering and infrastructure to deliver robust, production-ready systems that solve real-world challenges.
+I apply DevOps principles to automate software delivery through CI/CD pipelines, using tools like Docker, Kubernetes, GitLab CI/CD, and Terraform. I also design and manage cloud infrastructure on AWS, Azure, and GCP, focusing on high availability, scalability, and maintainability.
+
+My approach is hands-on, practical, and focused on delivering real business value — combining backend power, frontend usability, and infrastructure reliability.
 
 💻 Tech Stack:
 - Languages: C#, Python, Typescript, JavaScript
